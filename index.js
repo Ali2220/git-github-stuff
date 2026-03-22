@@ -7,3 +7,7 @@ function addNumber(a, b){
 function multiply(a, b){
     return a + b
 }
+
+function test_branch(){
+    console.log("This is a test branch")
+}
