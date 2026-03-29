@@ -13,4 +13,6 @@ function test_branch(){
 }
 
 let z = 30
-let y = 20
+function greet(){
+    console.log("Hello, welcome to the code repository!")
+}
