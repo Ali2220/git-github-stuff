@@ -11,3 +11,5 @@ function multiply(a, b){
 function test_branch(){
     console.log("This is a test branch")
 }
+
+let z = 20
